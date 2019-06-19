@@ -1,0 +1,7 @@
+{
+    "packages": [
+        "packages/*"
+    ],
+    "conventionalCommits": true,
+    "version": "independent"
+}
